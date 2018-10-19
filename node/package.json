@@ -1,0 +1,29 @@
+{
+  "name": "junkan-server-application",
+  "version": "0.0.1",
+  "description": "This application is the bootstrapper for all nodejs related apps of junkan",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Junkan-Dashboard/server.git"
+  },
+  "keywords": [
+    "dashboard",
+    "application",
+    "junkan",
+    "tool",
+    "pet-project"
+  ],
+  "author": "Thomas Kolar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Junkan-Dashboard/server/issues"
+  },
+  "homepage": "https://github.com/Junkan-Dashboard/server#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
